@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+   padding: 0;
+}
+
+header {
+   background-color: rgb(241, 241, 241);
+   color:rgb(0, 0, 0);
+   display:flex;
+   justify-content: space-around;
+   align-items: center;
+   width: 1920px;
+   height: 200px;
+}
+
+.cabecalho-imagem{
+   width: 300px;
+}
+
+
+   .Cabecalho-lista-item{
+       margin: 0 16px;
+       font-size: 24px;
+       display:inline-block;
+   }
+   .pastelaria{
+       background-image: linear-gradient(rgb(241, 241, 241),#c9c9c9);
+       color:rgb(0, 0, 0);
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       padding: 24px 0;
+   }
+   
+
+
+
+
+
+
