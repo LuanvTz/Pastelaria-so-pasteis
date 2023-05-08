@@ -15,8 +15,11 @@ header {
 
 .cabecalho-imagem{
    width: 300px;
+   
 }
-
+.pastelaria-imagem{
+   width: 25%;
+}
 
    .Cabecalho-lista-item{
        margin: 0 16px;
@@ -24,6 +27,8 @@ header {
        display:inline-block;
    }
    .pastelaria{
+      display: grid;
+      grid-template-columns: 50% 50%;
        background-image: linear-gradient(rgb(241, 241, 241),#c9c9c9);
        color:rgb(0, 0, 0);
        display: flex;
