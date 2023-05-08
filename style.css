@@ -37,8 +37,16 @@ header {
        padding: 24px;
        font-family: Arial, Helvetica, sans-serif;
    }
-   
-
+   .titulo-pastelaria{
+      padding: 30px 0;
+   }
+   .pastelaria-texto-um{
+      font-size: 25px;
+   }
+   .pastelaria-texto-dois{
+      font-size: 20px;
+      padding: 20px 0;
+   }
 
 
 
