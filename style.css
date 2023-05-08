@@ -39,9 +39,10 @@ header {
    }
    .titulo-pastelaria{
       padding: 30px 0;
+      text-align: center;
    }
    .pastelaria-texto-um{
-      font-size: 25px;
+      font-size: 23px;
    }
    .pastelaria-texto-dois{
       font-size: 20px;
