@@ -20,6 +20,9 @@ header {
 .pastelaria-imagem{
    width: 25%;
 }
+.pastel-div-conteudo{
+   width: 35%;
+}
 
    .Cabecalho-lista-item{
        margin: 0 16px;
