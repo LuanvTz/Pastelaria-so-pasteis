@@ -33,7 +33,7 @@ header {
    .pastelaria{
       display: grid;
       grid-template-columns: 50% 50%;
-       background-image: linear-gradient(#545454),#545454);
+       background-image: linear-gradient(#545454),(#545454);
        color: rgb(54, 54, 54);
        display: flex;
        justify-content: space-around;
