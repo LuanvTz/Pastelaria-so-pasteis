@@ -46,10 +46,12 @@ header {
    }
    .pastelaria-texto-um{
       font-size: 23px;
+      color: brown;
    }
    .pastelaria-texto-dois{
       font-size: 20px;
       padding: 20px 0;
+      color: brown;
    }
 
 
