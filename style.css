@@ -34,7 +34,7 @@ header {
        padding: 24px;
       display: grid;
       grid-template-columns: 50% 50%;
-       background-color:(#545454)
+       background-color: #545454;
        display: flex;
        justify-content: space-around;
        align-items: center;
