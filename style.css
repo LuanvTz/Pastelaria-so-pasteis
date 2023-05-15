@@ -33,7 +33,7 @@ header {
       display: grid;
       grid-template-columns: 50% 50%;
        background-image: linear-gradient(rgb(241, 241, 241),#c9c9c9);
-       color:rgb(0, 0, 0);
+       color: brown;
        display: flex;
        justify-content: space-around;
        align-items: center;
