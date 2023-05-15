@@ -4,7 +4,7 @@
 }
 
 header {
-   background-color: rgb(241, 241, 241);
+   background-color: rgb(0, 0, 0);
    color:rgb(0, 0, 0);
    display:flex;
    justify-content: space-around;
@@ -33,7 +33,7 @@ header {
       display: grid;
       grid-template-columns: 50% 50%;
        background-image: linear-gradient(rgb(241, 241, 241),#c9c9c9);
-       color: brown;
+       color: rgb(255, 255, 255);
        display: flex;
        justify-content: space-around;
        align-items: center;
@@ -46,12 +46,12 @@ header {
    }
    .pastelaria-texto-um{
       font-size: 23px;
-      color: brown;
+      color: rgb(255, 255, 255);
    }
    .pastelaria-texto-dois{
       font-size: 20px;
       padding: 20px 0;
-      color: brown;
+      color: rgb(255, 255, 255);
    }
 
 
