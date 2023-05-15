@@ -4,8 +4,8 @@
 }
 
 header {
-   background-color: rgb(54, 54, 54);
-   color:rgb(54, 54, 54);
+   background-color:#545454;
+   color:#545454;
    display:flex;
    justify-content: space-around;
    align-items: center;
